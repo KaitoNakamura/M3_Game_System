@@ -1,0 +1,35 @@
+# Delphi
+# =========================
+*.local
+*.stat
+*.dcu
+*.wix
+*.wil
+*.wav
+*.wes
+*.map
+*.rsm
+*.exe
+__recovery
+__history
+
+# Windows
+# =========================
+# Windows shortcuts
+*.lnk
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Folder config file
+Desktop.ini
